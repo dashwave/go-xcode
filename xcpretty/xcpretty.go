@@ -8,9 +8,9 @@ import (
 
 	"github.com/bitrise-io/go-steputils/v2/ruby"
 	loggerV1 "github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-utils/v2/command"
-	"github.com/bitrise-io/go-utils/v2/env"
-	"github.com/bitrise-io/go-utils/v2/log"
+	"github.com/dashwave/go-utils/v2/command"
+	"github.com/dashwave/go-utils/v2/env"
+	"github.com/dashwave/go-utils/v2/log"
 	"github.com/dashwave/go-xcode/v2/xcodebuild"
 	"github.com/hashicorp/go-version"
 )

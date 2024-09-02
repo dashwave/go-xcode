@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/bitrise-io/go-utils/v2/fileutil"
-	"github.com/bitrise-io/go-utils/v2/pathutil"
+	"github.com/dashwave/go-utils/v2/fileutil"
+	"github.com/dashwave/go-utils/v2/pathutil"
 )
 
 // Writer ...

@@ -3,7 +3,7 @@ package destination
 import (
 	"testing"
 
-	"github.com/bitrise-io/go-utils/v2/log"
+	"github.com/dashwave/go-utils/v2/log"
 	"github.com/dashwave/go-xcode/v2/destination/testdata"
 	"github.com/dashwave/go-xcode/v2/mocks"
 	"github.com/stretchr/testify/mock"

@@ -3,7 +3,7 @@ package xcodeversion
 import (
 	"testing"
 
-	"github.com/bitrise-io/go-utils/v2/command"
+	"github.com/dashwave/go-utils/v2/command"
 	"github.com/dashwave/go-xcode/v2/mocks"
 	"github.com/stretchr/testify/require"
 )

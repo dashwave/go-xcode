@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/bitrise-io/go-utils/progress"
-	"github.com/bitrise-io/go-utils/v2/command"
-	"github.com/bitrise-io/go-utils/v2/log"
+	"github.com/dashwave/go-utils/v2/command"
+	"github.com/dashwave/go-utils/v2/log"
 	"github.com/dashwave/go-xcode/v2/errorfinder"
 	version "github.com/hashicorp/go-version"
 )

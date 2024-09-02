@@ -10,8 +10,8 @@ import (
 	"github.com/bitrise-io/go-utils/errorutil"
 	"github.com/bitrise-io/go-utils/fileutil"
 	"github.com/bitrise-io/go-utils/pathutil"
-	"github.com/bitrise-io/go-utils/v2/command"
 	"github.com/bitrise-io/go-xcode/certificateutil"
+	"github.com/dashwave/go-utils/v2/command"
 	"github.com/hashicorp/go-version"
 )
 

@@ -3,9 +3,9 @@ package metaparser
 import (
 	"time"
 
-	"github.com/bitrise-io/go-utils/v2/fileutil"
-	"github.com/bitrise-io/go-utils/v2/log"
 	"github.com/bitrise-io/go-xcode/exportoptions"
+	"github.com/dashwave/go-utils/v2/fileutil"
+	"github.com/dashwave/go-utils/v2/log"
 )
 
 // ArtifactMetadata ...

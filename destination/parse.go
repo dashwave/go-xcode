@@ -9,7 +9,7 @@ import (
 
 	"github.com/bitrise-io/go-utils/errorutil"
 	"github.com/bitrise-io/go-utils/retry"
-	"github.com/bitrise-io/go-utils/v2/command"
+	"github.com/dashwave/go-utils/v2/command"
 	"github.com/hashicorp/go-version"
 )
 

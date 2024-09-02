@@ -8,10 +8,10 @@ import (
 	"os/exec"
 
 	"github.com/bitrise-io/go-steputils/v2/ruby"
-	"github.com/bitrise-io/go-utils/v2/command"
-	"github.com/bitrise-io/go-utils/v2/fileutil"
-	"github.com/bitrise-io/go-utils/v2/log"
-	"github.com/bitrise-io/go-utils/v2/pathutil"
+	"github.com/dashwave/go-utils/v2/command"
+	"github.com/dashwave/go-utils/v2/fileutil"
+	"github.com/dashwave/go-utils/v2/log"
+	"github.com/dashwave/go-utils/v2/pathutil"
 	"github.com/dashwave/go-xcode/v2/errorfinder"
 )
 

@@ -1,6 +1,6 @@
 package xcodebuild
 
-import "github.com/bitrise-io/go-utils/v2/command"
+import "github.com/dashwave/go-utils/v2/command"
 
 // CommandModel ...
 type CommandModel interface {

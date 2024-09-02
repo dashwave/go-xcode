@@ -3,7 +3,7 @@
 package xcodecommand
 
 import (
-	command "github.com/bitrise-io/go-utils/v2/command"
+	command "github.com/dashwave/go-utils/v2/command"
 	mock "github.com/stretchr/testify/mock"
 
 	version "github.com/hashicorp/go-version"

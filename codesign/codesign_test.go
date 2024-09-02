@@ -9,10 +9,10 @@ import (
 	"time"
 
 	"github.com/bitrise-io/go-steputils/v2/stepconf"
-	"github.com/bitrise-io/go-utils/v2/log"
 	"github.com/bitrise-io/go-xcode/appleauth"
 	"github.com/bitrise-io/go-xcode/certificateutil"
 	"github.com/bitrise-io/go-xcode/devportalservice"
+	"github.com/dashwave/go-utils/v2/log"
 	"github.com/dashwave/go-xcode/v2/autocodesign"
 	"github.com/dashwave/go-xcode/v2/codesign/mocks"
 	"github.com/stretchr/testify/mock"

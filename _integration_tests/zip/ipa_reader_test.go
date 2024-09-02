@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/bitrise-io/go-utils/v2/log"
 	"github.com/bitrise-io/go-xcode/plistutil"
 	"github.com/bitrise-io/go-xcode/profileutil"
+	"github.com/dashwave/go-utils/v2/log"
 	"github.com/dashwave/go-xcode/v2/_integration_tests"
 	"github.com/dashwave/go-xcode/v2/artifacts"
 	internalzip "github.com/dashwave/go-xcode/v2/internal/zip"

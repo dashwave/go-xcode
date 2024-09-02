@@ -30,15 +30,13 @@ github.com/bitrise-io/go-utils/progress
 github.com/bitrise-io/go-utils/retry
 github.com/bitrise-io/go-utils/sliceutil
 github.com/bitrise-io/go-utils/ziputil
-# github.com/bitrise-io/go-utils/v2 v2.0.0-alpha.23
+# github.com/bitrise-io/go-utils/v2 v2.0.0-alpha.13
 ## explicit; go 1.17
 github.com/bitrise-io/go-utils/v2/command
 github.com/bitrise-io/go-utils/v2/env
-github.com/bitrise-io/go-utils/v2/fileutil
 github.com/bitrise-io/go-utils/v2/log
 github.com/bitrise-io/go-utils/v2/log/colorstring
 github.com/bitrise-io/go-utils/v2/pathutil
-github.com/bitrise-io/go-utils/v2/retryhttp
 # github.com/bitrise-io/go-xcode v1.0.18
 ## explicit; go 1.20
 github.com/bitrise-io/go-xcode/appleauth
@@ -57,6 +55,15 @@ github.com/bitrise-io/go-xcode/xcodeproject/serialized
 github.com/bitrise-io/go-xcode/xcodeproject/xcodeproj
 github.com/bitrise-io/go-xcode/xcodeproject/xcscheme
 github.com/bitrise-io/go-xcode/xcodeproject/xcworkspace
+# github.com/dashwave/go-utils/v2 v2.0.0-20240902112930-19e66b67e6dd
+## explicit; go 1.17
+github.com/dashwave/go-utils/v2/command
+github.com/dashwave/go-utils/v2/env
+github.com/dashwave/go-utils/v2/fileutil
+github.com/dashwave/go-utils/v2/log
+github.com/dashwave/go-utils/v2/log/colorstring
+github.com/dashwave/go-utils/v2/pathutil
+github.com/dashwave/go-utils/v2/retryhttp
 # github.com/davecgh/go-spew v1.1.1
 ## explicit
 github.com/davecgh/go-spew/spew

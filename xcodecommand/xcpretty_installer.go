@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/bitrise-io/go-steputils/v2/ruby"
-	command "github.com/bitrise-io/go-utils/v2/command"
+	command "github.com/dashwave/go-utils/v2/command"
 	version "github.com/hashicorp/go-version"
 )
 

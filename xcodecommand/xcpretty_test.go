@@ -3,8 +3,8 @@ package xcodecommand
 import (
 	"testing"
 
-	gocommand "github.com/bitrise-io/go-utils/v2/command"
-	"github.com/bitrise-io/go-utils/v2/log"
+	gocommand "github.com/dashwave/go-utils/v2/command"
+	"github.com/dashwave/go-utils/v2/log"
 	mockcommand "github.com/dashwave/go-xcode/v2/mocks"
 	"github.com/hashicorp/go-version"
 	"github.com/stretchr/testify/assert"

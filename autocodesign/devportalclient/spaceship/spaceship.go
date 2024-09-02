@@ -19,8 +19,8 @@ import (
 
 	"github.com/bitrise-io/go-steputils/v2/ruby"
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-utils/v2/command"
 	"github.com/bitrise-io/go-xcode/appleauth"
+	"github.com/dashwave/go-utils/v2/command"
 	"github.com/dashwave/go-xcode/v2/autocodesign"
 )
 

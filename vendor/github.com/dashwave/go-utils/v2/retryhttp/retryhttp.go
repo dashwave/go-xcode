@@ -1,7 +1,7 @@
 package retryhttp
 
 import (
-	"github.com/bitrise-io/go-utils/v2/log"
+	"github.com/dashwave/go-utils/v2/log"
 	"github.com/hashicorp/go-retryablehttp"
 )
 
