@@ -12,11 +12,11 @@ import (
 	"github.com/bitrise-io/go-utils/log"
 	"github.com/bitrise-io/go-utils/pathutil"
 	"github.com/bitrise-io/go-utils/sliceutil"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
 	"github.com/bitrise-io/go-xcode/xcodeproject/schemeint"
 	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
 	"github.com/bitrise-io/go-xcode/xcodeproject/xcodeproj"
 	"github.com/bitrise-io/go-xcode/xcodeproject/xcscheme"
+	"github.com/dashwave/go-xcode/v2/autocodesign"
 	"howett.net/plist"
 )
 

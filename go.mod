@@ -1,4 +1,4 @@
-module github.com/bitrise-io/go-xcode/v2
+module github.com/dashwave/go-xcode/v2
 
 go 1.20
 

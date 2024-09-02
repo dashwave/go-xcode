@@ -6,7 +6,7 @@ import (
 
 	"github.com/bitrise-io/go-utils/log"
 	"github.com/bitrise-io/go-xcode/certificateutil"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
 )
 
 func selectCertificatesAndDistributionTypes(certificateSource DevPortalClient, typeToLocalCerts LocalCertificates, distribution DistributionType, signUITestTargets bool, verboseLog bool) (map[appstoreconnect.CertificateType][]Certificate, []DistributionType, error) {

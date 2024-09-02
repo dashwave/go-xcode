@@ -7,7 +7,7 @@ import (
 
 	"github.com/bitrise-io/go-utils/v2/command"
 	"github.com/bitrise-io/go-utils/v2/log"
-	"github.com/bitrise-io/go-xcode/v2/xcodeversion"
+	"github.com/dashwave/go-xcode/v2/xcodeversion"
 )
 
 // Keep it in sync with https://github.com/bitrise-io/image-build-utils/blob/master/roles/simulators/defaults/main.yml#L14

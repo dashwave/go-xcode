@@ -1,7 +1,7 @@
 package destination
 
 import (
-	"github.com/bitrise-io/go-xcode/v2/xcodeversion"
+	"github.com/dashwave/go-xcode/v2/xcodeversion"
 	"github.com/hashicorp/go-version"
 )
 

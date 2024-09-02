@@ -2,7 +2,7 @@ package zip
 
 import (
 	"github.com/bitrise-io/go-utils/v2/log"
-	"github.com/bitrise-io/go-xcode/v2/internal/zip"
+	"github.com/dashwave/go-xcode/v2/internal/zip"
 )
 
 // DefaultReader is a zip reader, that utilises zip.StdlibRead and zip.DittoReader readers.

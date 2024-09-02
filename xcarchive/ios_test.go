@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/bitrise-io/go-xcode/profileutil"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
 	v1xcarchive "github.com/bitrise-io/go-xcode/xcarchive"
+	"github.com/dashwave/go-xcode/v2/autocodesign"
 )
 
 func TestIosArchive_ReadCodesignParameters(t *testing.T) {

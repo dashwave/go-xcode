@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/dashwave/go-xcode/v2/autocodesign"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

@@ -12,10 +12,10 @@ import (
 	"github.com/bitrise-io/go-utils/v2/log"
 	"github.com/bitrise-io/go-xcode/appleauth"
 	"github.com/bitrise-io/go-xcode/devportalservice"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnectclient"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/spaceship"
+	"github.com/dashwave/go-xcode/v2/autocodesign"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/appstoreconnectclient"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/spaceship"
 )
 
 const (

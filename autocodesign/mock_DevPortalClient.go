@@ -3,7 +3,7 @@
 package autocodesign
 
 import (
-	appstoreconnect "github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	appstoreconnect "github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
 
 	big "math/big"
 

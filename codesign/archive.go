@@ -1,8 +1,8 @@
 package codesign
 
 import (
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/v2/xcarchive"
+	"github.com/dashwave/go-xcode/v2/autocodesign"
+	"github.com/dashwave/go-xcode/v2/xcarchive"
 )
 
 // Archive ...

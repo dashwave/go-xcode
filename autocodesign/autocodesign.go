@@ -13,8 +13,8 @@ import (
 	"github.com/bitrise-io/go-xcode/certificateutil"
 	"github.com/bitrise-io/go-xcode/devportalservice"
 	"github.com/bitrise-io/go-xcode/profileutil"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
 	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
 )
 
 // Profile represents a provisioning profiles

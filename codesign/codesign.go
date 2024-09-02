@@ -8,10 +8,10 @@ import (
 	"github.com/bitrise-io/go-xcode/appleauth"
 	"github.com/bitrise-io/go-xcode/certificateutil"
 	"github.com/bitrise-io/go-xcode/devportalservice"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/projectmanager"
+	"github.com/dashwave/go-xcode/v2/autocodesign"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/dashwave/go-xcode/v2/autocodesign/projectmanager"
 )
 
 // AuthType ...

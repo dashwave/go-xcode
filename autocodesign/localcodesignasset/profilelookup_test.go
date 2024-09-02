@@ -6,7 +6,7 @@ import (
 	"github.com/bitrise-io/go-xcode/certificateutil"
 	"github.com/bitrise-io/go-xcode/exportoptions"
 	"github.com/bitrise-io/go-xcode/profileutil"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
+	"github.com/dashwave/go-xcode/v2/autocodesign"
 	"github.com/stretchr/testify/assert"
 )
 

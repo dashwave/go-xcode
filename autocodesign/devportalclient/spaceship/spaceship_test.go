@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/bitrise-io/go-xcode/v2/mocks"
+	"github.com/dashwave/go-xcode/v2/mocks"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

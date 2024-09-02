@@ -1,7 +1,7 @@
 package autocodesign
 
 import (
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
 )
 
 // CertificateTypeByDistribution ...

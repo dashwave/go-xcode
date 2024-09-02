@@ -11,14 +11,14 @@ import (
 	"github.com/bitrise-io/go-utils/v2/log"
 	"github.com/bitrise-io/go-xcode/appleauth"
 	"github.com/bitrise-io/go-xcode/devportalservice"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/certdownloader"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/codesignasset"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/keychain"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/localcodesignasset"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/projectmanager"
-	"github.com/bitrise-io/go-xcode/v2/codesign"
+	"github.com/dashwave/go-xcode/v2/autocodesign"
+	"github.com/dashwave/go-xcode/v2/autocodesign/certdownloader"
+	"github.com/dashwave/go-xcode/v2/autocodesign/codesignasset"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient"
+	"github.com/dashwave/go-xcode/v2/autocodesign/keychain"
+	"github.com/dashwave/go-xcode/v2/autocodesign/localcodesignasset"
+	"github.com/dashwave/go-xcode/v2/autocodesign/projectmanager"
+	"github.com/dashwave/go-xcode/v2/codesign"
 )
 
 type config struct {

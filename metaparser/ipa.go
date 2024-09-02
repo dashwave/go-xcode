@@ -3,8 +3,8 @@ package metaparser
 import (
 	"fmt"
 
-	"github.com/bitrise-io/go-xcode/v2/artifacts"
-	"github.com/bitrise-io/go-xcode/v2/zip"
+	"github.com/dashwave/go-xcode/v2/artifacts"
+	"github.com/dashwave/go-xcode/v2/zip"
 )
 
 // ParseIPAData ...

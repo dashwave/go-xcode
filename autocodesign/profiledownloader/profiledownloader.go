@@ -9,8 +9,8 @@ import (
 	"github.com/bitrise-io/go-steputils/input"
 	"github.com/bitrise-io/go-utils/filedownloader"
 	"github.com/bitrise-io/go-xcode/profileutil"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/localcodesignasset"
+	"github.com/dashwave/go-xcode/v2/autocodesign"
+	"github.com/dashwave/go-xcode/v2/autocodesign/localcodesignasset"
 )
 
 type downloader struct {

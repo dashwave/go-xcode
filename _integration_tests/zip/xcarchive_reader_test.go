@@ -5,10 +5,10 @@ import (
 	"testing"
 
 	"github.com/bitrise-io/go-utils/v2/log"
-	"github.com/bitrise-io/go-xcode/v2/_integration_tests"
-	"github.com/bitrise-io/go-xcode/v2/artifacts"
-	internalzip "github.com/bitrise-io/go-xcode/v2/internal/zip"
-	"github.com/bitrise-io/go-xcode/v2/zip"
+	"github.com/dashwave/go-xcode/v2/_integration_tests"
+	"github.com/dashwave/go-xcode/v2/artifacts"
+	internalzip "github.com/dashwave/go-xcode/v2/internal/zip"
+	"github.com/dashwave/go-xcode/v2/zip"
 	"github.com/stretchr/testify/require"
 )
 

@@ -3,7 +3,7 @@ package destination
 import (
 	"testing"
 
-	"github.com/bitrise-io/go-xcode/v2/xcodeversion"
+	"github.com/dashwave/go-xcode/v2/xcodeversion"
 	"github.com/hashicorp/go-version"
 	"github.com/stretchr/testify/require"
 )

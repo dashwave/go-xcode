@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/time"
 	"github.com/bitrise-io/go-xcode/xcodeproject/serialized"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/time"
 )
 
 // ProfilesEndpoint ...

@@ -148,6 +148,8 @@ func (k Keychain) listKeychains() ([]string, error) {
 // a Keychain object representing the created
 // keychain is returned.
 func createKeychain(path string, password stepconf.Secret, factory command.Factory) (*Keychain, error) {
+	// Delete the keychain if it already exists
+	runSecurityCmd(factory, "delete-keychain", path)
 	err := runSecurityCmd(factory, "-v", "create-keychain", "-p", password, path)
 	if err != nil {
 		return nil, err

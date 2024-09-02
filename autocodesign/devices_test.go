@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/bitrise-io/go-xcode/devportalservice"
-	"github.com/bitrise-io/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
+	"github.com/dashwave/go-xcode/v2/autocodesign/devportalclient/appstoreconnect"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

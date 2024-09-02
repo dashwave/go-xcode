@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	autocodesign "github.com/bitrise-io/go-xcode/v2/autocodesign"
+	autocodesign "github.com/dashwave/go-xcode/v2/autocodesign"
 
 	mock "github.com/stretchr/testify/mock"
 )
